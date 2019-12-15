@@ -3,7 +3,7 @@ Predict sales prices and practice different machine learning regressors.
 ( ⭐️ Star us on GitHub — it helps! )
 
 <img src="https://www.vancouverrealestatepodcast.com/wp-content/uploads/2018/10/Detached-home-prices.jpg"
-     title="House Prices">
+     title="House Prices" height=350 width=450 >
 
 Getting started with competitive data science can be quite intimidating. So I build this notebook for a quick overview of the `House Prices: Advanced Regression Techniques` competition. For your convenience, please view it in [kaggle](https://www.kaggle.com/iamrohitsingh/house-prices-visualization-prediction/output).
 
