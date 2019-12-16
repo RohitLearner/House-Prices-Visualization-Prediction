@@ -23,12 +23,6 @@ You will also need to have the software installed to run and execute an  [iPytho
 
 ## Code
 
-```bash 
-python3 grid_search.py
-python3 train.py
-python3 predict.py
-```
-
 An ipython notebook is used for data preprocessing, feature transforming and outlier detecting. All core scripts are in `file .ipynb"` folder. All input data are in `input` folder and the detailed description of the data can be found in [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
 
 ## Content in Notebook
